@@ -116,8 +116,34 @@ np.mean(predict(res.x, x)==y)
 ```
 ## Output:
 ## Array value of x
-![image]("")
+![image]("1.png")
 
+## Array value of y
+![image]("2.png")
+
+## Score graph
+![image]("3.png")
+
+## Sigmoid function graph
+![image]("4.png")
+
+## x train gradient value
+![image]("5.png")
+
+## y train gradient value
+![image]("6.png")
+
+## Regression value
+![image]("7.png")
+
+## Decision boundary graph
+![image]("8.png")
+
+## Probability value
+![image]("9.png")
+
+## Prediction value of graph
+![image]("10.png")
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
