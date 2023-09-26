@@ -116,13 +116,13 @@ np.mean(predict(res.x, x)==y)
 ```
 ## Output:
 ## Array value of x
-![model]("1.png")
+![model](1.png)
 
 ## Array value of y
-![model]("2.png")
+![model](2.png)
 
 ## Score graph
-![model]("3.png")
+![model](3.png)
 
 ## Sigmoid function graph
 ![model]("4.png")
